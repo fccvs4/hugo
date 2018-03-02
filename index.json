@@ -1,0 +1,50 @@
+[
+{
+	"uri": "https://fccvs4.github.io/hugo/posts/my-first-post/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "Sniffing is a minor concern. The bigger problem, by far, are third party tackers. This is more an attempt by Google to monopolize tracking data than preventing it.\n"
+},
+{
+	"uri": "https://fccvs4.github.io/hugo/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://fccvs4.github.io/hugo/",
+	"title": "Hugo Site",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://fccvs4.github.io/hugo/posts/",
+	"title": "Posts",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://fccvs4.github.io/hugo/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://fccvs4.github.io/hugo/posts/secondlevel/",
+	"title": "second level",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://fccvs4.github.io/hugo/posts/secondlevel/thirdlevel/",
+	"title": "third level",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
